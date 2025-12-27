@@ -113,12 +113,3 @@ The tests can be run by typing `pytest` in the integrated terminal.
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTACT -->
-
-## Contact
-
-Muneeb Zafar – muneeb-zafar@outlook.com
-
-Project Link: [https://github.com/MuneebZ/Flask_AnalyticsReport](https://github.com/MuneebZ/Flask_AnalyticsReport)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
